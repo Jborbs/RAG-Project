@@ -1,0 +1,7 @@
+elasticsearch==8.19.0
+ir-datasets
+python-dotenv
+streamlit
+torch
+tqdm
+transformers
